@@ -1,6 +1,7 @@
 let mainCard;//כרטיס ראשי
 //התחלת המשחק
 function mainJS() {
+    ////////////////////////////////ניסיון לעלות לגיט אב
     HowToGame();
     userForm();
 }
